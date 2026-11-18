@@ -16,7 +16,7 @@ Repo: https://github.com/F1-Group/AI-Enhanced-F1-Simulator
 
 Repo: https://github.com/UoB-COMSM0166/2026-group-12
 
-**CareCar**
+**CareCar** (Harvard CS50x final project)
 
 Arduino delivery robot for elderly people, with obstacle detection and live ESP32-CAM video streaming.
 

@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Marty 👋
 
-<!--
-**marty12211/marty12211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computer Science graduate from the University of Bristol, building reliable AI-powered software. Based in London.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI-Enhanced F1 Simulator** (IBM industry collaboration)
+Real-time LLM race coach for the TORCS simulator, using IBM Granite via Ollama, a RAG knowledge base (ChromaDB), guardrails and a circuit breaker.
+https://github.com/marty12211/AI-Enhanced-F1-Simulator
+
+**CareCar**
+Arduino delivery robot for elderly people, with obstacle detection and live ESP32-CAM video streaming.
+
+**SKAARL**
+2D platformer game in JavaScript and p5.js, with a finite-state-machine movement system and a grappling mechanic.
+
+## Skills
+
+Python · JavaScript · C · HTML/CSS · Flask · Docker · Git · LLMs · RAG · Prompt Engineering · Microsoft Azure
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/ming-yen-tsai-4431722b4/
+Email: daimarty1221@gmail.com
